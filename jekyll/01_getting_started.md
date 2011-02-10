@@ -47,14 +47,17 @@
 Any jekyll-recognized file \(i.e. .html, .markdown, .textile\) in your
 project will be parsed by jekyll if it contains the YAML front-matter.
 
-!SLIDE bullets incremental
+!SLIDE bullets incremental small
 
 # Other Features #
 
-* Comments: Disqus
-* Categories: YAML front-matter
-* Tags: See http://www.justkez.com/generating-a-tag-cloud-in-jekyll
-* Syndication?
+* *Comments:*
+* Use a service such as Disqus
+* *Categories:* 
+* Possible in Jekyll through YAML front-matter
+* *Tags:* 
+* http://www.justkez.com/generating-a-tag-cloud-in-jekyll
+* *What about Syndication?*
 
 !SLIDE bullets
 

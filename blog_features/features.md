@@ -4,12 +4,12 @@
 
 !SLIDE bullets
 
-# Dynamic systems #
+# Dynamic systems and Services #
 
 * Wordpress
 * Movable Type
-* PHP-Nuke/Postnuke/etc.
 * Mephisto and Radiant
+* Tumblr and Posterous
 * A million others...
 
 !SLIDE
